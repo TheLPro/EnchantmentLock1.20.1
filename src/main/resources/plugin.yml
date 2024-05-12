@@ -1,9 +1,0 @@
-name: ${project.name}
-version: ${project.version}
-description: ${project.description}
-
-authors: [Newt]
-main: me.newt.enchantmentlock.EnchantmentLock
-website: https://github.com/JustDJplease/EnchantmentLock
-
-api-version: 1.16
